@@ -14,8 +14,8 @@ def main():
 
     print("Total number of students:", total_std)
     print("The number of males and females:", no_males_females)
-    print(f'Percentage of males \t {m_perc:.2f}')
-    print(f'Perecentage of females \t {f_perc:.2f}')
+    print(f'Percentage of males: \t {m_perc:.2f}' + "%")
+    print(f'Perecentage of females: \t {f_perc:.2f}' "%")
     """
     ########################################
     # Do not delete the return statement
